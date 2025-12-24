@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "amount": 100.0,
+        "category": "food",
+        "description": "biriyani"
+    },
+    {
+        "id": 2,
+        "amount": 90.0,
+        "category": "travel",
+        "description": "train ticket"
+    },
+    {
+        "id": 3,
+        "amount": 100.0,
+        "category": "travel",
+        "description": "bus ticket"
+    }
+]
